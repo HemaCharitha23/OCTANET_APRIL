@@ -41,7 +41,7 @@ body {
   }
 }
 #header-img {
-  height: 5rem;
+  height: 10rem;
   width: auto;
 }
 @media (max-width: 800px) {
@@ -215,7 +215,7 @@ nav {
 }
 .tile img {
   width: 100%;
-  max-width: 48rem;
+  max-width: 45rem;
   border-radius: 0.5rem;
 }
 .tile h4 {
@@ -278,13 +278,6 @@ nav {
 }
 #benefits {
   background-color: #f84848;
-}
-#benefits iframe {
-  outline: 0;
-  border: none;
-  width:100%;
-  border-radius: 0.4rem;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
 }
 #contact {
   background-color: #cb3737;
